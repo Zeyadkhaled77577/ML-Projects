@@ -1,4 +1,5 @@
 Helmet Detection using YOLOv8
+
 This project implements a helmet detection model using the YOLOv8 architecture, designed to automatically detect whether individuals are wearing helmets in images or videos. The model is trained using a custom dataset hosted on Roboflow and fine-tuned for helmet detection tasks.
 
 Features
